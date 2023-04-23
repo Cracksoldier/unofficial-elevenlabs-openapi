@@ -13,3 +13,8 @@ For a full list of available generators:
 >java -jar openapi-generator-cli-6.5.0.jar generate -i elevenlabs.yaml -g python-fastapi -o python-fastapi-client
 - To generate a java client:
 >java -jar openapi-generator-cli-6.5.0.jar generate -i elevenlabs.yaml -g java -o java-client
+
+## Additional Resources
+Here are some additional resources:
+- [Elevenlabs API documentation](https://docs.elevenlabs.io/quickstart)
+- [OpenAPI Geneartor Repository](https://github.com/OpenAPITools/openapi-generator)
