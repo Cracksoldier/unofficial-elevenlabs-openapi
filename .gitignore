@@ -1,0 +1,5 @@
+# Exclude codegen binaries
+openapi-generator-cli-*.jar
+
+# Exclude subdirectories
+*/
